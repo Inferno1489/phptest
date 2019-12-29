@@ -1,0 +1,8 @@
+.div1{
+	width: 400px;
+	height: 400px;
+	transform: rotate(45deg) scaleY(2);
+	margin-top: 170px;
+	margin-left: 170px;
+	background-color: yellow;
+}
